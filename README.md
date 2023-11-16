@@ -1,5 +1,5 @@
 # Mind-Mates
-**Due to limited storage restrictions,profile avatar updation is restricted but can be implemented locally **
+## **Due to limited storage restrictions,profile avatar updation is restricted but can be implemented locally **
 ---
 * Mind-Mates, a virtual space to hangout with like minded mates. 
 * Register,Sign-in and dive in to create rooms without any restrictions
